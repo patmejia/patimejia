@@ -3,9 +3,10 @@
 Welcome to my GitHub profile! I'm a data analyst with a passion for using advanced technology to make a positive impact on people's lives. I hold a master's degree in mathematics and finance, with a strong focus on data-driven decision making.
 
 ## About Me
-I approach every project with a data-driven mindset, leveraging my skills in web development, software engineering, machine learning, and data analytics to extract valuable insights from complex data. I'm particularly interested in exploring connections between food, soil, and microbiology to enhance our understanding of the world around us.
 
-Currently, I contribute to Lasagna Love, an open-source project that delivers homemade lasagnas to families in need. I collaborate on setting up the database and backend using technologies like Prisma, Node.js, Supabase, and REST API. At Chromatic Systems, I support projects focused on STEM education, research, databases, and health. As a data engineer, I connect xml.feeds, validate streams, parse data, create diagrams, and process data down to user-level with the aim of delivering high-quality data that enables effective decision-making.
+Expertise in web development, software engineering, machine learning, and data analytics. Skilled at exploring the connections between finance, food, soil, and microbiology.
+
+Contributing to Lasagna Love by setting up the backend using technologies such as Prisma, Node.js, Supabase, and REST API. At Chromatic Systems, supporting STEM education, research, databases, and health-related projects as a data engineer. Responsible for connecting XML feeds, validating streams, parsing data, and implementing NLP techniques.
 
 ## Recent Projects
 
