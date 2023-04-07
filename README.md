@@ -7,16 +7,6 @@ I approach every project with a data-driven mindset, leveraging my skills in web
 
 Currently, I contribute to Lasagna Love, an open-source project that delivers homemade lasagnas to families in need. I collaborate on setting up the database and backend using technologies like Prisma, Node.js, Supabase, and REST API. At Chromatic Systems, I support projects focused on STEM education, research, databases, and health. As a data engineer, I connect xml.feeds, validate streams, parse data, create diagrams, and process data down to user-level with the aim of delivering high-quality data that enables effective decision-making.
 
-## Development Skills
-
-- Web Development: JavaScript, HTML, CSS, NodeJS, Deno
-- Software Engineering: SCM, CI/CD
-- Machine Learning: Python, TensorFlow, Scikit-learn, Hugging Face Transformers, Google Colab, Stable Diffusion
-- Data Analytics: Pandas, NumPy, Matplotlib, SQL
-- Business Intelligence: Data Visualization, Google Workspace, Bloomberg Terminal, Google Data Studio
-- Deep Learning: Fastai
-- Tools & Frameworks: GitHub, Visual Studio Code, Blender, OpenAI (NLP, CV), DALL-E
-
 ## Recent Projects
 
 - A guide to geodesic algorithms and geospatial data tools for distance calculation and visualization using Python or JavaScript.
