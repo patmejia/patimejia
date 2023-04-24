@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a data analyst with a passion for using advanc
 
 Expertise in web development, software engineering, machine learning, and data analytics. Skilled at exploring the connections between finance, food, soil, and microbiology.
 
-Contributing to Lasagna Love by setting up the backend using technologies such as Prisma, Node.js, Supabase, and REST API. At Chromatic Systems, supporting STEM education, research, databases, and health-related projects as a data engineer. Responsible for connecting XML feeds, validating streams, parsing data, and implementing NLP techniques.
+Contributing with OSS at Lasagna Love by setting up backend technologies with GDI. At Chromatic Systems, supporting STEM education, research, databases, and health-related projects as a data engineer. Responsible for connecting XML feeds, validating streams, parsing data, and implementing NLP techniques.
 
 ## Recent Projects
 
